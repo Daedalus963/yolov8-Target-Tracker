@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 opencv-python
+=======
+opencv-python
+>>>>>>> b8ec38ba44cb6dc0ebafeeed30fd5ad860701c64
 numpy
