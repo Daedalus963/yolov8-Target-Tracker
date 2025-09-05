@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
-Welcome!My Name is DEEKSHITHA SOMASHEKHAR.This project helps you detect **cars, vehicles, people, and animals** in aerial/drone footage using YOLOv8.
+Welcome! My Name is DEEKSHITHA SOMASHEKHAR.This project helps you detect **cars, vehicles, people, and animals** in aerial/drone footage using YOLOv8.
 
 ---
 
@@ -165,4 +165,5 @@ yolov8-target-tracker/
 
 
 Licensed under the [MIT License](LICENSE).
+
 
